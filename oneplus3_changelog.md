@@ -1,4 +1,11 @@
-Initial feature list:
+February 7th, 2020
+
+- Security string 2020-02-05
+- Bromite System Webview 79.0.3945.139
+- AuroraStore 3.1.8
+
+
+January 14th, 2020 - Initial feature list:
 
 - Pre-installed microG and F-Droid same as the LineageOS for microG project
 - Pre-installed AuroraStore (Version 3.1.7) with AuroraServices 1.0.5
