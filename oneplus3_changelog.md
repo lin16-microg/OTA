@@ -1,3 +1,7 @@
+February 19th, 2020 - interim release
+
+- Kernel fix for crash when doing VoIP telephony
+
 February 7th, 2020
 
 - Security string 2020-02-05
