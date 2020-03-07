@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1583598765,
+      "filename": "lineage-16.0-20200307-UNOFFICIAL-signed-amami.zip",
+      "id": "89183c483d2563608a9e122206b236e1",
+      "romtype": "UNOFFICIAL-signed",
+      "size": 464174859,
+      "url": "https://sourceforge.net/projects/lin16/files/amami/LineageOS_16_signed/lineage-16.0-20200307-UNOFFICIAL-signed-amami.zip/download",
+      "version": "16.0"
+    }
+  ]
+}
