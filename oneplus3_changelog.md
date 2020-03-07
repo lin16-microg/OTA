@@ -1,6 +1,15 @@
+March 7th, 2020
+
+- Security string 2020-03-05
+- Bromite System Webview 80.0.3987.118
+- AuroraStore 3.2.0
+- Added Netguard app (F-Droid) to SELinux domain allowing /proc/net
+
+
 February 19th, 2020 - interim release
 
 - Kernel fix for crash when doing VoIP telephony
+
 
 February 7th, 2020
 
