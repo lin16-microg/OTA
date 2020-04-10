@@ -1,3 +1,18 @@
+April 10th, 2020
+
+- ASB Security string 2020-04-05
+- Fix for CVE-2020-8597 (external/ppp)
+- Kernel: CVE-2019-10638 siphash 128bit for IP generation
+- Bromite Webview on 81.0.4044.76
+- AuroraStore updated to 3.2.4
+
+
+March 16th, 2020 - interim release
+
+- Vendor blob update to reflect OOS 9.0.6 - vendor sec. patch level now 2019-10-01
+- Debloated from Alipay, WeChatpay, Soter and IFAA
+
+
 March 7th, 2020
 
 - Security string 2020-03-05
