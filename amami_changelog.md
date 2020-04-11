@@ -1,3 +1,12 @@
+April 11th, 2020 - Update for both build variants
+
+- Security string 2020-04-05
+- Fix for CVE-2020-8597 (external/ppp)
+- Kernel: CVE-2019-10638 siphash 128bit for IP generation
+- microG build only: AuroraStore updated to 3.2.4
+- microG build only: Bromite Webview on M81
+
+
 March 7th, 2020 - Update for both build variants
 
 - Security string 2020-03-05
