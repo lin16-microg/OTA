@@ -4,7 +4,7 @@
       "datetime": 1586521579,
       "filename": "lineage-16.0-20200410-UNOFFICIAL-microG-signed-amami.zip",
       "id": "19ac80bf9e469fc1a5e87a4e81a1f4ae",
-      "romtype": "UNOFFICIAL",
+      "romtype": "UNOFFICIAL-microG-signed",
       "size": 531425934,
       "url": "https://sourceforge.net/projects/lin16/files/amami/LineageOS_16_signed/lineage-16.0-20200410-UNOFFICIAL-microG-signed-amami.zip/download",
       "version": "16.0"
