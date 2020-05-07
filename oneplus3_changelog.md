@@ -1,3 +1,14 @@
+May 6th, 2020
+
+- ASB Security string 2020-05-05
+- Telephony: Option to set different ringtones in case of Dual SIM
+- Kernel: Native Wireguard support
+- Kernel: Merged CAF tag LA.UM.7.6.r1-07400-89xx.0 (also f. WLAN)
+- Kernel: Misc. optimizations
+- Bromite Webview on 81.0.4044.127
+- AuroraStore updated to 3.2.8
+
+
 April 10th, 2020
 
 - ASB Security string 2020-04-05
