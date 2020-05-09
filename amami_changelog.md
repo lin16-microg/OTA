@@ -1,3 +1,9 @@
+May 09th, 2020 - Update for both build variants
+
+- Security string 2020-05-05
+- microG build only: AuroraStore updated to 3.2.8
+
+
 April 11th, 2020 - Update for both build variants
 
 - Security string 2020-04-05
