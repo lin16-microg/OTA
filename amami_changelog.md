@@ -1,6 +1,7 @@
 May 09th, 2020 - Update for both build variants
 
 - Security string 2020-05-05
+- Standard build only: System Webview on M81
 - microG build only: AuroraStore updated to 3.2.8
 
 
