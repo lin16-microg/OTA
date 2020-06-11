@@ -1,3 +1,11 @@
+June 10th, 2020
+
+- ASB Security string 2020-06-05
+- Kernel: Wireguard tag v1.0.20200520
+- Bromite Webview on 83.0.4103.101
+- Sepolicy: Netmonitor exception f. "Tracker Control" app
+
+
 May 6th, 2020
 
 - ASB Security string 2020-05-05
