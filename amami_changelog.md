@@ -1,3 +1,12 @@
+June 11th, 2020 - Update for both build variants
+
+- Security string 2020-06-05
+- GPS improvements / modernisation
+- Enable MIDI support
+- microG build only: Bromiote Webview on M83
+- microG build only: Netmonitor exception in SEPolicy f. "Tracker Control" app
+
+
 May 09th, 2020 - Update for both build variants
 
 - Security string 2020-05-05
