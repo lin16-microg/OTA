@@ -1,3 +1,13 @@
+June 10th, 2020
+
+- ASB Security string 2020-06-05
+- Kernel: Wireguard tag v1.0.20200520
+- System Webview on 81.0.4044.138 (Standard build variant)
+- Bromite Webview on 83.0.4103.101 (microG build variant)
+- Disabled NearbyMessagingService and DiscoveryService (only relevant, if genuine Gapps are used) to improve WiFi performance, when BT is used
+- Sepolicy: Netmonitor exception f. "Tracker Control" app (microG build variant)
+
+
 May 6th, 2020
 Initial feature list:
 
