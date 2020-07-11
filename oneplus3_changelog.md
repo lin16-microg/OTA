@@ -1,3 +1,12 @@
+July 10th, 2020
+
+- ASB Security string 2020-07-05
+- Kernel: Wireguard tag v1.0.20200623
+- microG: updated prebuilt GmsCore fom /e/ project (fixed FCM registration issues)
+- F-Droid updated to 1.8 / F-Droid privileged extension updated to 0.2.11
+- Aurorastore updated to 3.2.9 / AuroraServices updated to 1.0.6
+
+
 June 10th, 2020
 
 - ASB Security string 2020-06-05
