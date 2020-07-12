@@ -1,3 +1,11 @@
+July 12th, 2020 - Update for both build variants
+
+- ASB Security string 2020-07-05
+- microG build only: updated prebuilt microG GmsCore fom /e/ project (fixed FCM registration issues)
+- microG build only: F-Droid updated to 1.8 / F-Droid privileged extension updated to 0.2.11
+- microG build only: Aurorastore updated to 3.2.9 / AuroraServices updated to 1.0.6
+
+
 June 11th, 2020 - Update for both build variants
 
 - Security string 2020-06-05
