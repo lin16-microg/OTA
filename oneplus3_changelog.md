@@ -1,3 +1,13 @@
+August 8th, 2020
+
+- ASB Security string 2020-07-05
+- Bromite Webview updated to 84.0.4147.113
+- Kernel: Upstreamed to tag ASB-2020-08-05_3.18
+- Kernel: Wireguard tag v1.0.20200729
+- Kernel: qcacld-2.0 merge of CAF tag LA.UM.7.6.r1-07800-89xx.0
+- Location of the firewall functionality has moved to Network > Data usage in Settings
+
+
 July 10th, 2020
 
 - ASB Security string 2020-07-05
