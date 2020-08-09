@@ -1,3 +1,10 @@
+August 9th, 2020 - Update for both build variants
+
+- ASB Security string 2020-08-05
+- Webviews on M84
+- microG build only: Location of firewall UI now in Network => data usage (Settings menu)
+
+
 July 12th, 2020 - Update for both build variants
 
 - ASB Security string 2020-07-05
@@ -11,7 +18,7 @@ June 11th, 2020 - Update for both build variants
 - Security string 2020-06-05
 - GPS improvements / modernisation
 - Enable MIDI support
-- microG build only: Bromiote Webview on M83
+- microG build only: Bromite Webview on M83
 - microG build only: Netmonitor exception in SEPolicy f. "Tracker Control" app
 
 
