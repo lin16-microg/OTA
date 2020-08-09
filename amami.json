@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1594572272,
-      "filename": "lineage-16.0-20200712-UNOFFICIAL-microG-signed-amami.zip",
-      "id": "cecd0dadde20b5a12170472004016816",
+      "datetime": 1596894844,
+      "filename": "lineage-16.0-20200808-UNOFFICIAL-microG-signed-amami.zip",
+      "id": "f8925731b5add7a28c4aff74b3d31299",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 506509467,
-      "url": "https://sourceforge.net/projects/lin16/files/amami/LineageOS_16_signed/lineage-16.0-20200712-UNOFFICIAL-microG-signed-amami.zip/download",
+      "size": 507789654,
+      "url": "https://sourceforge.net/projects/lin16/files/amami/LineageOS_16_signed/lineage-16.0-20200808-UNOFFICIAL-microG-signed-amami.zip/download",
       "version": "16.0"
     }
   ]
