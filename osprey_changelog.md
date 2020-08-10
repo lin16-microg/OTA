@@ -1,3 +1,12 @@
+August 10th, 2020
+
+- ASB Security string 2020-08-05
+- Kernel: Wireguard tag v1.0.20200729
+- System Webview 84.0.4147.89 (Standard build variant)
+- Bromite Webview 84.0.4147.113 (microG build variant)
+- Location of the firewall functionality moved to Network > Data usage in Settings (microG build variant)
+
+
 July 12th, 2020
 
 - ASB Security string 2020-07-05
