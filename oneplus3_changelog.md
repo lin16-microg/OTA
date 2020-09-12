@@ -1,6 +1,16 @@
+September 12th, 2020
+
+- ASB Security string 2020-09-05
+- Bromite Webview updated to 85.0.4183.86
+- Kernel: Upstreamed to tag ASB-2020-09-05_3.18
+- Kernel: Wireguard tag v1.0.20200908
+- Kernel: Fix USB-OTG unplug crash
+- Added eSpeak TTS engine (FOSS TTS solution)
+
+
 August 8th, 2020
 
-- ASB Security string 2020-07-05
+- ASB Security string 2020-08-05
 - Bromite Webview updated to 84.0.4147.113
 - Kernel: Upstreamed to tag ASB-2020-08-05_3.18
 - Kernel: Wireguard tag v1.0.20200729
