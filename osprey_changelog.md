@@ -1,3 +1,12 @@
+September 13th, 2020
+
+- ASB Security string 2020-09-05
+- Kernel: Wireguard tag v1.0.20200908
+- System Webview 85.0.4183.101 (Standard build variant)
+- Bromite Webview 85.0.4183.86 (microG build variant)
+- Added eSpeak TTS engine (microG build variant)
+
+
 August 10th, 2020
 
 - ASB Security string 2020-08-05
