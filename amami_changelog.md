@@ -1,3 +1,10 @@
+September 13th, 2020 - Update for both build variants
+
+- ASB Security string 2020-09-05
+- Webviews on M85
+- microG build only: Added eSpeak TTS engine (microG build variant)
+
+
 August 9th, 2020 - Update for both build variants
 
 - ASB Security string 2020-08-05
