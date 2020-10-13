@@ -1,3 +1,11 @@
+October 13th, 2020
+
+- ASB Security string 2020-10-05
+- Bromite Webview 86.0.4240.73 (microG build variant)
+- microG 0.2.12.203315 - including "Exposure notification API" for use of Covid tracing apps (microG build variant)
+- Additional hardening: bionic and constified JNI method tables (microG build variant)
+
+
 September 13th, 2020
 
 - ASB Security string 2020-09-05
