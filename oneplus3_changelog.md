@@ -1,10 +1,22 @@
+November 08th, 2020
+
+- ASB Security string 2020-11-05
+- Kernel: Upstreamed to tag ASB-2020-11-05_3.18
+- Kernel: Fix of bug causing crashes with Wireguard in native mode
+- Fix of AOSP E-Mail widget
+- Fix for CVE-2020-15999
+- Bromite Webview on 86.0.4240.181
+- Updated microG with fixes in GCM and EN API
+- Replaced weak F-Droid signatures with ROM's V2 signatures
+
+
 October 8th, 2020
 
 - ASB Security string 2020-10-05
 - Bromite Webview on 86.0.4240.73
 - Kernel: Upstreamed to tag ASB-2020-10-05_3.18
 - microG 0.2.12.203315 - including "Exposure notification API" for use of Covid tracing apps
-- Additional hardening (bionic and constified JNI method tables)
+- Additional hardening (constified JNI method tables)
 
 
 September 12th, 2020
