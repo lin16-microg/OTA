@@ -1,3 +1,13 @@
+November 10th, 2020 - Update for both build variants
+
+- ASB Security string 2020-11-05
+- Fix for CVE-2020-15999
+- AOSP E-Mail widget fixed
+- Webviews updated to/within M86
+- microG build only: microG - fixes in EN API and GCM
+- microG build only:Replaced weak F-Droid signatures with ROM's V2 signatures
+
+
 October 13th, 2020 - Update for both build variants
 
 - ASB Security string 2020-10-05
