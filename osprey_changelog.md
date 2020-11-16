@@ -1,3 +1,14 @@
+November 14th, 2020
+
+- ASB Security string 2020-11-05
+- Additional Fix for CVE-2020-15999
+- Fix of AOSP E-Mail widget
+- System Webview 86.0.4240.185 (Standard variant)
+- Bromite Webview 86.0.4240.181 (microG build variant)
+- Updated microG with fixes in GCM and EN API (microG build variant)
+- Replaced weak F-Droid signatures with ROM's V2 signatures (microG build variant)
+
+
 October 13th, 2020
 
 - ASB Security string 2020-10-05
