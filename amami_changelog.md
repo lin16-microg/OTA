@@ -1,3 +1,11 @@
+December 13th, 2020 - Update for both build variants
+
+- Version string 2020-12-01 (this month, no kernel updates found)
+- Webview updates for both builds (microG build on M87)
+- microG build only: F-Droid updated to 1.10-alpha1-114
+- microG build only: microG updated from upstream to 0.2.14.204215-15 (picked until 720b089)
+
+
 November 10th, 2020 - Update for both build variants
 
 - ASB Security string 2020-11-05
@@ -5,7 +13,7 @@ November 10th, 2020 - Update for both build variants
 - AOSP E-Mail widget fixed
 - Webviews updated to/within M86
 - microG build only: microG - fixes in EN API and GCM
-- microG build only:Replaced weak F-Droid signatures with ROM's V2 signatures
+- microG build only: Replaced weak F-Droid signatures with ROM's V2 signatures
 
 
 October 13th, 2020 - Update for both build variants
