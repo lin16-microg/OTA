@@ -1,3 +1,12 @@
+December 13th, 2020
+
+- ASB Security string 2020-12-05
+- Kernel: Upstreamed to tag ASB-2020-12-05_3.18
+- Bromite Webview on 87.0.4280.106
+- Updated microG from upstream to 0.2.14.204215-15 (picked until 720b089)
+- Updated F-Droid to 1.10-alpha1-114
+
+
 November 08th, 2020
 
 - ASB Security string 2020-11-05
