@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1607703123,
-      "filename": "lineage-16.0-20201211-UNOFFICIAL-microG-signed-oneplus3.zip",
-      "id": "1eebc58faf0a369e93d590f709bd88b1",
+      "datetime": 1610487475,
+      "filename": "lineage-16.0-20210112-UNOFFICIAL-microG-signed-oneplus3.zip",
+      "id": "514b85d3b0b3a4e6db0074f3f63c99e7",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 693066572,
-      "url": "https://sourceforge.net/projects/lin16-microg/files/oneplus3/lineage-16.0-20201211-UNOFFICIAL-microG-signed-oneplus3.zip/download",
+      "size": 692884993,
+      "url": "https://sourceforge.net/projects/lin16-microg/files/oneplus3/lineage-16.0-20210112-UNOFFICIAL-microG-signed-oneplus3.zip/download",
       "version": "16.0"
     }
   ]
