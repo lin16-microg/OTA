@@ -1,3 +1,16 @@
+December 26th, 2021 - BACK AGAIN
+
+- Relaunch of LineageOS 16.0 microG builds
+- ASB Security string 2021-12-05
+- Bromite Webview 96.0.4664.54
+- microG 0.22.214516-21
+- F-Droid 1.13
+- Many kernel sec. patches
+- Updated DRM blobs
+
+
+-----------------------------------------------------------------------
+
 December 18th, 2020
 
 - ASB Security string 2020-12-05
