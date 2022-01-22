@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1640550353,
-      "filename": "lineage-16.0-20211226-UNOFFICIAL-microG-signed-osprey.zip",
-      "id": "5a825f7fc53971348e8a83b8aa098295",
+      "datetime": 1642805463,
+      "filename": "lineage-16.0-20220121-UNOFFICIAL-microG-signed-osprey.zip",
+      "id": "80844a8b9c80913554a67745dd3667ff",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 478095423,
-      "url": "https://sourceforge.net/projects/lin16-microg/files/osprey/lineage-16.0-20211226-UNOFFICIAL-microG-signed-osprey.zip/download",
+      "size": 478125968,
+      "url": "https://sourceforge.net/projects/lin16-microg/files/osprey/lineage-16.0-20220121-UNOFFICIAL-microG-signed-osprey.zip/download",
       "version": "16.0"
     }
   ]
