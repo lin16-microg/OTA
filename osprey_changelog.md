@@ -1,3 +1,10 @@
+January 22nd, 2022
+
+- ASB Security string 2022-01-05
+- Some kernel patches
+- Backported Audio balance (accessibility settings) from Android 10
+
+
 December 26th, 2021 - BACK AGAIN
 
 - Relaunch of LineageOS 16.0 microG builds
