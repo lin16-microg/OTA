@@ -1,3 +1,11 @@
+February 19th, 2022
+
+- Custom build release 2022-02-01
+- F-Droid updated to 1.14, F-Droid privileged extension to 0.2.13
+- Bromite System Webview updated to 97.0.4692.106
+- microG updated to 0.2.24.214816-2
+
+
 January 22nd, 2022
 
 - ASB Security string 2022-01-05
