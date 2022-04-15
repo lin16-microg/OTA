@@ -1,3 +1,17 @@
+April 15th, 2022
+
+- Custom build release 2022-04-01
+- Bromite System Webview updated to 100.0.4896.57
+
+
+March 17th, 2022
+
+- Custom build release 2022-03-01
+- Bromite System Webview updated to 99.0.4844.58
+- microG 0.2.24.214816-2
+- AuroraStore 4.1.1
+
+
 February 19th, 2022
 
 - Custom build release 2022-02-01
