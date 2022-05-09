@@ -1,3 +1,13 @@
+May 9th, 2022
+
+- Custom build release 2022-05-01
+- Some kernel patches
+- Bromite Webview on 101.0.4951.53
+- microG updated to 0.2.24.214816-10
+- Mozilla Location provider on 1.5.0
+- F-Droid 1.15
+
+
 April 15th, 2022
 
 - Custom build release 2022-04-01
