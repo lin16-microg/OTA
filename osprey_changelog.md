@@ -1,3 +1,18 @@
+September 11th, 2022
+
+- Custom build release 2022-09-01
+- Many kernel patches
+- Bromite Webview on 104.0.5112.91
+- microG 0.2.24.214816-30
+- Contacts app slightly 'de-Googled'
+
+
+August 12th, 2022
+
+- Custom build release 2022-08-01
+- Bromite Webview updated to 103.0.5060.140
+
+
 July 16th, 2022
 
 - Custom build release 2022-06-01
