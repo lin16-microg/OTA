@@ -1,3 +1,11 @@
+October 13th, 2022
+
+- Custom build release 2022-10-01
+- Bromite Webview 105.0.5195.147
+- microG 0.2.24.223616-61
+- APN configurations updated
+
+
 September 11th, 2022
 
 - Custom build release 2022-09-01
