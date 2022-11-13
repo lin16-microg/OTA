@@ -1,3 +1,11 @@
+November 13th, 2022
+
+- Custom build release 2022-11-01
+- Bromite Webview 106.0.5249.163
+- microG 0.2.25.223616-10
+- F-Droid 1.15.3
+
+
 October 13th, 2022
 
 - Custom build release 2022-10-01
