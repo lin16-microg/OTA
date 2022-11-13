@@ -4,7 +4,7 @@ November 13th, 2022
 - Bromite Webview 106.0.5249.163
 - microG 0.2.25.223616-10
 - F-Droid 1.15.3
-
+- Timezone data updated to 2022e
 
 October 13th, 2022
 
