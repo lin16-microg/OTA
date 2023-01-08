@@ -1,3 +1,9 @@
+Janaury 8th, 2023
+
+- Custom build release 2023-01-01
+- microG 0.2.26.223616-16
+
+
 December 12th, 2022
 
 - Custom build release 2022-12-01
