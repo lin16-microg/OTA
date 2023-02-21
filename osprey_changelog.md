@@ -1,6 +1,14 @@
+February 21st, 2023
+
+- Custom build release 2023-02-01
+- microG on 0.2.27.223616-3
+- Spoof apps installed by G*PlayStore 
+
+
 Janaury 8th, 2023
 
 - Custom build release 2023-01-01
+- Bromite Webview 108.0.5359.156
 - microG 0.2.26.223616-16
 
 
