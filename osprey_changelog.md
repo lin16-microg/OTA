@@ -1,3 +1,11 @@
+June 20th, 2023
+
+- Custom build release 2023-06-01
+- Mulch Webview 114.0.5735.131
+- microG 0.2.28.231657
+- AuroraStore 4.2.3
+
+
 May 12th, 2023
 
 - Custom build release 2023-05-01
