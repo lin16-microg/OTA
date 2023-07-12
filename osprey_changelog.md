@@ -1,3 +1,10 @@
+July 12th, 2023
+
+- Custom build release 2023-07-01
+- Mulch Webview 114.0.5735.196
+- microG 0.2.28.231657 - "original" included
+
+
 June 20th, 2023
 
 - Custom build release 2023-06-01
