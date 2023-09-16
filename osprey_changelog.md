@@ -1,3 +1,20 @@
+September 16th, 2023
+
+- Custom build release 2023-09-01
+- some kernel patches
+- Mulch Webview 117.0.5938.60
+- AuroraStore 4.3.1
+- Slightly hardened GPS configuration
+- Updated CA-Certificates
+
+
+August 17th, 2023
+
+- Custom build release 2023-08-01
+- some kernel patches
+- Mulch Webview 116.0.5845.92
+
+
 July 12th, 2023
 
 - Custom build release 2023-07-01
