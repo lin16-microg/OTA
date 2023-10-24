@@ -1,3 +1,14 @@
+October 24th, 2023
+
+-  Custom build release 2023-10-01
+-  some kernel patches
+-  Mulch Webview 118.0.5993.80
+-  AuroraStore 4.3.5
+-  FDroid 1.18.0
+-  Fixes for CVE-2023-4863 and CVE-2023-5217
+-  microG 0.2.29.233013
+
+
 September 16th, 2023
 
 - Custom build release 2023-09-01
