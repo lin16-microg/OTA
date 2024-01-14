@@ -1,3 +1,26 @@
+January 14th, 2024
+
+- Custom build release 2023-12-01
+- some kernel patches
+- Timezone DB 2023 updates
+- Mulch Webview 120.0.6099.210
+
+
+December 21st, 2023
+
+- Custom build release 2023-12-01
+- some kernel patches
+- Mulch Webview 120.0.6099.115
+
+
+November 25th, 2023
+
+- Custom build release 2023-11-01
+- some kernel patches
+- Mulch Webview 119.0.6045.163
+- microG and companion (aka Fake>Store) 0.3.0.233515
+
+
 October 24th, 2023
 
 -  Custom build release 2023-10-01
