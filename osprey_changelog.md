@@ -1,3 +1,11 @@
+June 19th, 2024
+
+- Custom build release 2024-06-01
+- Some kernel patches
+- microG GmsCore & companion v0.3.2.240913
+- Mulch Webview 126.0.6478.71
+
+
 May 15th, 2024
 
 - Custom build release 2024-05-01
