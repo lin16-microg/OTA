@@ -1,3 +1,11 @@
+July 18th, 2024
+
+- Custom build release 2024-07-01
+- Some kernel patches
+- AuroraStore 4.5.1
+- Mulch Webview 126.0.6478.186
+
+
 June 19th, 2024
 
 - Custom build release 2024-06-01
