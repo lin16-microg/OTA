@@ -1,3 +1,12 @@
+January 24th, 2025
+
+- Custom build release 2025-01-01
+- AOSmium System webview 132.0.6834.79
+- microG & companion v0.3.6.244735
+- AuroraStore 4.6.4
+- expat: applied upstream CVEs
+
+
 December 19th, 2024
 
 - Custom build release 2024-12-01
